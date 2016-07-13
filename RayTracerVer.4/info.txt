@@ -1,0 +1,7 @@
+ray tracer with spheres
+ 		axis aligned bounding boxes
+ 		triangle
+ 		polygon
+
+KDTree implementation
+
