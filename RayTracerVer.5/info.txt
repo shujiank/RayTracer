@@ -1,0 +1,15 @@
+ray tracer with spheres
+ 				axis aligned bounding boxes
+ 				triangle
+ 				polygon
+
+
+add KDTree implementation
+
+add Catmull-Clark Subdivision Surface 
+
+
+
+
+
+
